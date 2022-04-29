@@ -4,7 +4,7 @@
 -   🔈    I speak French, English, German & Croatian 
 - 📫 You can reach me by e-mail at contact.dpopovic@gmail.com
 - 🕴️ I'm also on [LinkedIn](www.linkedin.com/in/dorian-popovic)
-- 💻 Visit my [Website](DorianPopovic.github.io) and get introduced to my work 
+- 💻 Visit my [Website](https://DorianPopovic.github.io) and get introduced to my work 
 
 <!---
 DorianPopovic/DorianPopovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
